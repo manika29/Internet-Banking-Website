@@ -1,0 +1,65 @@
+.btn {
+  cursor: pointer;
+}
+body {
+  text-align: center;
+}
+
+.flat-table-1 tr:hover {
+  background: rgba(0, 0, 0, 0.19);
+}
+h1 {
+  font-family: Arial, Times, serif;
+}
+table {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid rgb(8, 7, 7);
+  border-collapse: collapse;
+}
+th {
+  color: #fff;
+  font-size: 10px;
+  padding: 12px;
+}
+
+td {
+  text-align: center;
+  font-size: 10px;
+  color: black;
+  padding: 0px 20px 0px 20px;
+}
+tr {
+  transition: background 0.3s, box-shadow 0.3s;
+}
+th,
+td {
+  border-collapse: collapse;
+  border: 1px groove gray;
+  text-shadow: none;
+}
+.css-button {
+  margin-left: auto;
+  margin-right: auto;
+}
+.button1 {
+  background-color: cadetblue;
+  color: rgb(8, 7, 7);
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.button1:hover {
+  background-color: grey;
+}
+/* .view {
+  top: 50%;
+  padding-top: 20px;
+  text-align: center;
+} */
+.ho {
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
