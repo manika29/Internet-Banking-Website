@@ -78,7 +78,7 @@ $row_count=mysqli_num_rows($result);
 			<td><?php echo  $row["BALANCE"]; ?></td>
 			<td>
 				<form action="customer.php" method="post"  class="view">
-					<button class="button1" type="submit" name="NAME" value="Nidhi"style="background-color: cadetblue; color:white;">TRANSACT</button>
+					<button class="button1" type="submit" name="NAME" value="Aditya"style="background-color: cadetblue; color:white;">TRANSACT</button>
 				
 				</form>
 			</td>
@@ -96,7 +96,7 @@ $row_count=mysqli_num_rows($result);
 			<td><?php echo  $row["BALANCE"]; ?></td>
 			<td>
 				<form action="customer.php" method="post"  class="view">
-					<button class="button1" type="submit" name="NAME" value="Mahima"style="background-color: cadetblue; color:white;">TRANSACT</button>
+					<button class="button1" type="submit" name="NAME" value="Neha"style="background-color: cadetblue; color:white;">TRANSACT</button>
 				
 				</form>
 			</td>
@@ -114,7 +114,7 @@ $row_count=mysqli_num_rows($result);
 			<td><?php echo  $row["BALANCE"]; ?></td>
 			<td>
 				<form action="customer.php" method="post"  class="view">
-					<button class="button1" type="submit" name="NAME" value="Anveshika"style="background-color: cadetblue; color:white;">TRANSACT</button>
+					<button class="button1" type="submit" name="NAME" value="Mahima"style="background-color: cadetblue; color:white;">TRANSACT</button>
 				
 				</form>
 			</td>
@@ -132,7 +132,7 @@ $row_count=mysqli_num_rows($result);
 			<td><?php echo  $row["BALANCE"]; ?></td>
 			<td>
 				<form action="customer.php" method="post"  class="view">
-					<button class="button1" type="submit" name="NAME" value="Aditya"style="background-color: cadetblue; color:white;">TRANSACT</button>
+					<button class="button1" type="submit" name="NAME" value="Bhavesh"style="background-color: cadetblue; color:white;">TRANSACT</button>
 				
 				</form>
 			</td>
@@ -150,7 +150,7 @@ $row_count=mysqli_num_rows($result);
 			<td><?php echo  $row["BALANCE"]; ?></td>
 			<td>
 				<form action="customer.php" method="post"  class="view">
-					<button class="button1" type="submit" name="NAME" value="Ishita"style="background-color: cadetblue; color:white;">TRANSACT</button>
+					<button class="button1" type="submit" name="NAME" value="Garima"style="background-color: cadetblue; color:white;">TRANSACT</button>
 				
 				</form>
 			</td>
@@ -168,7 +168,7 @@ $row_count=mysqli_num_rows($result);
 			<td><?php echo  $row["BALANCE"]; ?></td>
 			<td>
 				<form action="customer.php" method="post"  class="view">
-					<button class="button1" type="submit" name="NAME" value="Kanika"style="background-color: cadetblue; color:white;">TRANSACT</button>
+					<button class="button1" type="submit" name="NAME" value="Nidhi" style="background-color: cadetblue; color:white;">TRANSACT</button>
 				
 				</form>
 			</td>
@@ -186,7 +186,7 @@ $row_count=mysqli_num_rows($result);
 			<td><?php echo  $row["BALANCE"]; ?></td>
 			<td>
 				<form action="customer.php" method="post"  class="view">
-					<button class="button1" type="submit" name="NAME" value="Bhavesh"style="background-color: cadetblue; color:white;">TRANSACT</button>
+					<button class="button1" type="submit" name="NAME" value="Anveshika"style="background-color: cadetblue; color:white;">TRANSACT</button>
 				
 				</form>
 			</td>
@@ -204,7 +204,7 @@ $row_count=mysqli_num_rows($result);
 			<td><?php echo  $row["BALANCE"]; ?></td>
 			<td>
 				<form action="customer.php" method="post"  class="view">
-					<button class="button1" type="submit" name="NAME" value="Garima"style="background-color: cadetblue; color:white;">TRANSACT</button>
+					<button class="button1" type="submit" name="NAME" value="Ishita"style="background-color: cadetblue; color:white;">TRANSACT</button>
 				
 				</form>
 			</td>
@@ -222,7 +222,7 @@ $row_count=mysqli_num_rows($result);
 			<td><?php echo  $row["BALANCE"]; ?></td>
 			<td>
 				<form action="customer.php" method="post"  class="view">
-					<button class="button1" type="submit" name="NAME" value="Neha"style="background-color: cadetblue; color:white;">TRANSACT</button>
+					<button class="button1" type="submit" name="NAME" value="Kanika"style="background-color: cadetblue; color:white;">TRANSACT</button>
 				
 				</form>
 			</td>

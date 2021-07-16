@@ -23,20 +23,22 @@
       </div>
         
         <div id="header">
-             <br>
-             <br>
-              <br>
-              <br>
-              <br>
-              <br>
-              <br>
-              <br>
-              <br>
-             <h2 style="font-family:Roboto ; font-size:60px;color:black;"><b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspWELCOME TO INTERNET BANKING SYSTEM</b></h2>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+	<br>
+	<br>
+	<br>
+              
+             
         </div>
-          <h3 style=" font-family:Roboto ; font-size: 30px;color:black;"> <b>Here, We Respect Your Trust!</b></h3>
-          <br>
-          <br>
+        <br>
+	<br>
+	<br>
+        <br>
           
         <div class="button">
           <div class="container">
