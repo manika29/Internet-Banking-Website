@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TSF TASK</title>
+    <title>E-BANKING</title>
 
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style1.css">
@@ -15,7 +15,7 @@
 </head>
 <body>
     <div class="topnav">
-    <a href="index.php"style="float:left;font-size:25px;display: inline;">TSF BANK</a>
+    <a href="index.php"style="float:left;font-size:25px;display: inline;">E-BANKING</a>
         <a href="transaction_history.php">Transaction History</a>
         <a href="customer_details.php">View All Customers</a>
         <a class="active" href="index.php">Home</a>

@@ -1,2 +1,2 @@
 # Internet-Banking-System
-It is a dynamic banking website that has customer and transaction data in the database. Users can send money to other customers of the bank. After the successful transaction, the data in the database is updated and the transaction history is shown on the website. Technologies used : Frontend - HTML5, CSS3, Javascript, Bootstrap Backend - PHP Database - SQL
+It is a dynamic banking website that has customer and transaction data in the database. Users can send money to other customers of the bank. After the successful transaction, the data in the database is updated and the transaction history is shown on the website. Technologies used : Frontend - HTML5, CSS3, Javascript Backend - PHP Database - SQL
